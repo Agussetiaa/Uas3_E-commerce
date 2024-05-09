@@ -7,3 +7,7 @@
 #### - Contour
 
 KIta harus menginstal library yang diperlukan, yaitu Streamlit untuk membuat aplikasi web, OpenCV untuk manipulasi citra, dan Matplotlib untuk menampilkan histogram.
+
+'''
+pip install streamlit opencv-python matplotlib numpy
+'''
