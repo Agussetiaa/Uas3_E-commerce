@@ -1,5 +1,9 @@
 # Uas3_Pengolahancitra
 
+| Nama  |  NIM  | Kelas |
+| ------------- | ------------- |------------- |
+| Agus Setiawan  | 312210193 | TI 22 A2 |
+
 ## Project Web App untuk memanipulasi gambar citra menggunakan Streammlite dengan mengubah 
 #### - RGB menjadi HSV
 #### - Menghitung Histogram
