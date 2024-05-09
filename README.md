@@ -1,6 +1,6 @@
 # Uas3_Pengolahancitra
 
-| Nama  |  NIM  | Kelas |
+| Nama  |  Nim | Kelas |
 | ------------- | ------------- |------------- |
 | Agus Setiawan  | 312210193 | TI 22 A2 |
 
